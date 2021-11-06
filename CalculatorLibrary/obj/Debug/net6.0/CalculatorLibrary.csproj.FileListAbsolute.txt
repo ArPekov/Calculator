@@ -1,0 +1,13 @@
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.deps.json
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.dll
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\bin\Debug\net6.0\ref\CalculatorLibrary.dll
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\bin\Debug\net6.0\CalculatorLibrary.pdb
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.GlobalUsings.g.cs
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.AssemblyInfo.cs
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.dll
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\obj\Debug\net6.0\ref\CalculatorLibrary.dll
+C:\Users\пользователь\Documents\Code\Calculator\CalculatorLibrary\obj\Debug\net6.0\CalculatorLibrary.pdb
